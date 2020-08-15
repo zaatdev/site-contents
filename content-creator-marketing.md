@@ -4,7 +4,7 @@ description: Zaat is looking for a content cerator and digital marketing warrior
 image: ./salty_egg.jpg
 ---
 
-## :mega: Zaat is looking for a content creator and digital marketing warrior. :mag: 
+## :mega: Zaat is looking for a content creator and digital marketing warrior :mag:. 
 
 ### :information_source: **About us** 
 
@@ -28,19 +28,20 @@ Learn more about us by visiting zaat's [homepage](https:\\zaat.dev).
 ### :stars: **Plus Points**
 1. Experience in digital marketing, i.e. Google Adwords and/or facebook ads. [Digital Marketing]
 1. Have run successful digital marketing campaigns, which generated X leads [Digital Marketing]
-
+1. Can use illustator or/and photoshop. [Design] 
 
 
 ### :money_with_wings: **Salary/Payment**
 You will be joining zaat as a **freelancer**, payment option are:
 - per hour minimum  (15ILS)*.
-- per month minimum (1150ILS ~ 350USD)*. 
+- per month minimum (1150ILS ~ 350USD)**. 
 
-*Estimated; subject to change as we negotiate. 
- 
+*Estimated, subject to change as we negotiate. 
+**Depends how many hours per day aer you willing to commit.
+
 **Bonus**: You may get between (15-20+)% increase to your payment, if you are doing great work. i.e. getting X followers at social or securing clients. 
 
-### :scales:  **Contract Terms and Condition**
+### :scale_balance:  **Contract Terms and Condition**
 
 **Type**
 As stated above you will be contracte/ paid as a freelancer. That being said, there are no restrictions on when on the day you want to work, or which day of week you take off. _As long as you are doing it right, do it how/when you like_.
