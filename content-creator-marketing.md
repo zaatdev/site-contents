@@ -42,7 +42,7 @@ You will be joining zaat as a **freelancer**, payment option are:
 
 **Bonus**: You may get between (15-20+)% increase to your payment, if you are doing great work. i.e. getting X followers at social or securing clients. 
 
-### :balace_scale:  **Contract Terms and Condition**
+### :balance_scale:  **Contract Terms and Condition**
 
 **Type**
 As stated above you will be contracte/ paid as a freelancer. That being said, there are no restrictions on when on the day you want to work, or which day of week you take off. _As long as you are doing it right, do it how/when you like_.
