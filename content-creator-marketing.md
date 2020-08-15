@@ -13,7 +13,7 @@ We are relatively a new digital agency/firm, our main service is developing apps
 We ran 100% remotely, the current team members are distributed in Jerusalem, Gaza, Istanbul and Hebron.
  
 
-Learn more about us by visiting zaat's [homepage](https:\\zaat.dev).
+Learn more about us by visiting zaat's [homepage](https://zaat.dev).
 
 ### :heavy_check_mark: **Must Have | Daily Tasks**
 1. Very good knowledge of English, especially writing.[English]
