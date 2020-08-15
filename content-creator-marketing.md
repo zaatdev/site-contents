@@ -37,11 +37,12 @@ You will be joining zaat as a **freelancer**, payment option are:
 - per month minimum (1150ILS ~ 350USD)**. 
 
 *Estimated, subject to change as we negotiate. 
+
 **Depends how many hours per day aer you willing to commit.
 
 **Bonus**: You may get between (15-20+)% increase to your payment, if you are doing great work. i.e. getting X followers at social or securing clients. 
 
-### :scale_balance:  **Contract Terms and Condition**
+### :balace_scale:  **Contract Terms and Condition**
 
 **Type**
 As stated above you will be contracte/ paid as a freelancer. That being said, there are no restrictions on when on the day you want to work, or which day of week you take off. _As long as you are doing it right, do it how/when you like_.
