@@ -1,7 +1,7 @@
 ---
 title: Content Creator and Digital marketing Enthusiast is needed
 description: Zaat is looking for a content cerator and digital marketing warrior, click to learn more...
-image: ./salty_egg.jpg
+image: ./job-cotnent-marketing.png
 ---
 
 ## :mega: Zaat is looking for a content creator and digital marketing warrior :mag:. 
