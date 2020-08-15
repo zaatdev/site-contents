@@ -52,12 +52,9 @@ We have allocated budget for hiring one person for a period of at least **one mo
 
 As we are currently still trying to secure clients, unfortunately we can't promise that we can afford to have you for more than one month. However, if we secure clients *maybe with your help :pray:*, some possible scenario(s), is that we extend the contract or even you may get promoted to handle clients communication. 
 
-**Type**
-
-
 
 ### :paperclip: **Apply** 
-**Status**: Open Current accounting application.
+**Status**: Open Currently accpecting application.
  
 Send an email to [ghassan@zaat.dev](ghassan@zaat.dev) with the following:
 1. Your resume, and background...etc
