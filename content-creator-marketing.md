@@ -56,7 +56,7 @@ As we are currently still trying to secure clients, unfortunately we can't promi
 ### :paperclip: **Apply** 
 **Status**: Open Currently accepting application.
  
-Send an email to [ghassan@zaat.dev](emailtoghassan@zaat.dev) with the following:
+Send an email to [ghassan@zaat.dev](emailto:ghassan@zaat.dev) with the following:
 1. Your resume, and background.
 1. Your previous work, content you have created, blogs posts..etc 
 1. Account that you are managing/ have managed.
