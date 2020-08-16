@@ -34,8 +34,8 @@ Learn more about us by visiting zaat's [homepage](https://zaat.dev).
 
 ### :money_with_wings: **Salary/Payment**
 You will be joining zaat as a **freelancer**, payment option are:
-- per hour minimum  (15ILS)*.
-- per month minimum (1150ILS ~ 350USD)**. 
+- per hour minimum  (5USD)*.
+- per month minimum (400USD)**. 
 
 *Estimated, subject to change as we negotiate. 
 
