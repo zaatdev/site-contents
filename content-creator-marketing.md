@@ -4,8 +4,8 @@ description: Zaat is looking for a content cerator and digital marketing warrior
 image: ./job-cotnent-marketing.png
 type: job
 ---
-
-## :mega: Zaat is looking for a content creator and digital marketing warrior :mag:. 
+## This job is closed, no longer receiving application.
+## :mega: ~~Zaat is looking for a content creator and digital marketing warrior~~ :mag:. 
 
 ### :information_source: **About us** 
 
@@ -55,13 +55,5 @@ As we are currently still trying to secure clients, unfortunately we can't promi
 
 
 ### :paperclip: **Apply** 
-**Status**: Open Currently accepting application.
+**Status**: Close.
  
-Send an email to [ghassan@zaat.dev](mailto:ghassan@zaat.dev) with the following:
-1. Your resume, and background.
-1. Your previous work, content you have created, blogs posts..etc 
-1. Account that you are managing/ have managed.
-1. Letter of motivation. *Optional*  
-1. Any thing you think is relevant and might strengthen your position.
-
-Please note: *Only relevant applicants will be contacted back*
