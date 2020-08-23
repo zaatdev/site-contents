@@ -1,7 +1,8 @@
 ---
 title: privacy policy
 description: Zaat.Dev Privacy Policy and terms of use
-type: privacy
+type: misc
+page: privacy
 ---
 # Zaat's Privacy Policiy
 
