@@ -1,11 +1,13 @@
 ---
-title: About Zaat
-description: About Zaat
+title: About
+description: About Zaat.Dev
 type: misc
-page: about_zaat
+page: about
 ---
 
-# About Zaat.dev
+# About Us
+
+### About Zaat.Dev
 
 Zaat is a software solutions company, specialized in web development, mobile app development, tasks automation powered by **Artificial Intelligence (AI)**, and consulting.
 
@@ -16,12 +18,12 @@ Zaat and Team Members
 
 We, at Zaat, make sure our team feels appreciated and valued, to keep them engaged in their work. We successfully help our team members to grow into leaders within the company, and develop them through offering opportunities for individual growth and professional development.
 
-# Zaat and Society/ Zaat’s Social Responsibility
+### Zaat and Society/ Zaat’s Social Responsibility
 
 Zaat’s main role is creating and developing applications and solutions using state of the art technologies to increase productivity and business efficiency, through enabling the automation of repetitive manual/regular tasks and promotes higher-value work.
 At Zaat, we are aware of the impact of the technological change, and as a matter of our social responsibility we fully support the universal basic income scheme, as it may offer a lifeline to the most financially vulnerable and an opportunity to rebuild economies!
 
-# Zaat Core Values
+### Zaat Core Values
 
 **Trust and Respect:** We believe in exchange of trust and respect to nurture business, as they’re the bedrock of cementing relationships in the work environment. Our clients and employee’s veneration are always earned by dedicated effort and devotion.
 
