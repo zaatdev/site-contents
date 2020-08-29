@@ -7,14 +7,14 @@ page: privacy
 # Zaat's Privacy Policiy
 
 #### Table of content
-1. [Definition](#Definition:)
+1. [Definition](#Definition)
 1. [What data are we collecting](#What-data-do-we-collect)
 1. [Why do we collect data](#Why-do-we-collect-data) 
 1. [Where your data is stored](#where-is-the-data-stored)
 1. [How to access your data](#How-a-user-can-access-their-data)
 1. [Data Deletion](#How-a-user-can-delete-their-data)
 
-### Definition: 
+### Definition
 **User**: A human browsing this site: http://zaat.dev, a user can browse the site, using internet browser, i.e. Google Chrome or Safari. From any type of device, mobile, tablet or desktop/laptop.   
 **Data**: Any form of information that is affliated with user, like their device-type, email,...etc see this section for more detials [What data are we collecting](#what-data-do-we-collect).
 **Google Anayltics**: a  tool we use to gather data, analytics, and other... to help us boost understand users behavouris. e.g. How long users, styaed at zaat.dev/blog page?. It also importnat to note while Google Analytics(GA) while GA can be used for advertising purpose, we at Zaat only use it to understand our users better, so we know on what to foucs and that is only ture if you agree to the message pop-up.  
