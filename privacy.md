@@ -7,7 +7,7 @@ page: privacy
 # Zaat's Privacy Policiy
 
 #### Table of content
-1. [Definction](#Definition:)
+1. [Definition](#Definition:)
 1. [What data are we collecting](#What-data-do-we-collect)
 1. [Why do we collect data](#Why-do-we-collect-data) 
 1. [Where your data is stored](#where-is-the-data-stored)
