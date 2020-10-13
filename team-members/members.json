@@ -1,0 +1,36 @@
+{
+  "members" : [
+    {
+      "name": "Ghassan",
+      "img": "ghassanImag",
+      "title": "Team Lead",
+      "github": "ghassanmas",
+      "linkdin": "ghassanmas",
+      "fullname": "Ghassan Maslamani"
+    },
+    {
+      "name": "Yosef",
+      "img": "yosefImage",
+      "title": "Full-stack Developer",
+      "github": "yosefanajjar",
+      "linkdin": "yosefanajjar",
+      "fullname": "Yousef Alnajjar"
+    },
+    {
+      "name": "Aman",
+      "img": "amanImage",
+      "title": "Desinger & Front-end Developer",
+      "github": "amanshawar",
+      "linkdin": "aman-shawar-27a15a168",
+      "fullname": "Aman Shawar"
+    },
+    {
+      "name": "Ahd",
+      "img": "ahdImage",
+      "title": "Software Engineer",
+      "github": "Zeus3hd",
+      "linkdin": "ahdradwan",
+      "fullname": "Ahd Radwan"
+    }
+  ]
+}
