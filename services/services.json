@@ -2,32 +2,32 @@
    "services": [
   {
     "name": "Consultation",
-    "image": "Conunsltation",
+    "image": "./Conunsltation.svg",
     "summary": "It's always free to reach us, we will help you get insight about your problem or product"
   },
   {
     "name": "Fast",
-    "image": "Fast",
+    "image": "./Fast.svg",
     "summary": "We implement the state of the art solutions to meet up with web technology ongoing changing standards"
   },
   {
     "name": "SEO",
-    "image": "SEO",
+    "image": "./SEO.svg",
     "summary": "We continuously study and follow search engines gulidlines bit by bit. Try googling 'zaatdev' to see our rank!"
   },
   {
     "name": "Support multi languages",
-    "image": "SML",
+    "image": "./SML.svg",
     "summary": "Our solutions can support as many languages and regions as needed, so you can call it 'APPS without borders'"
   },
   {
     "name": "Responsiveness",
-    "image": "Responsives",
+    "image": "./Responsives.svg",
     "summary": "We develop optimized reliable solutions to run on all platforms, mobile, tablets and desktop."
   },
   {
     "name": "Tasks Automation",
-    "image": "TA",
+    "image": "./TA.svg",
     "summary": "Feed us with data, data and data, and we promise to build AI driven solution out of it"
   }
 ]
