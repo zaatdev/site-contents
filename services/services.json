@@ -2,12 +2,12 @@
    "services": [
   {
     "name": "Consultation",
-    "image": "./Conunsltation.svg.jsx",
+    "image": "./Conunsltation.svg",
     "summary": "It's always free to reach us, we will help you get insight about your problem or product"
   },
   {
     "name": "Fast",
-    "image": "./Fast.svg.jsx",
+    "image": "./Fast.svg",
     "summary": "We implement the state of the art solutions to meet up with web technology ongoing changing standards"
   },
   {
@@ -17,17 +17,17 @@
   },
   {
     "name": "Support multi languages",
-    "image": "./SML.svg.jsx",
+    "image": "./SML.svg",
     "summary": "Our solutions can support as many languages and regions as needed, so you can call it 'APPS without borders'"
   },
   {
     "name": "Responsiveness",
-    "image": "./Responsives.svg.jsx",
+    "image": "./Responsives.svg",
     "summary": "We develop optimized reliable solutions to run on all platforms, mobile, tablets and desktop."
   },
   {
     "name": "Tasks Automation",
-    "image": "./TA.svg.jsx",
+    "image": "./TA.svg",
     "summary": "Feed us with data, data and data, and we promise to build AI driven solution out of it"
   }
 ]
