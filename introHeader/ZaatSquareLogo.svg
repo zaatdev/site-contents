@@ -6,10 +6,10 @@
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 832.17 1075.03"
     xmlnsXlink="http://www.w3.org/1999/xlink"
-    fill="url(#linear-gradient)"
+    fill="url(#linear)"
   >
     <defs>
-      <linearGradient id="linear-gradient" y1="537.51" x2="831.48" y2="537.51" gradientUnits="userSpaceOnUse">
+      <linearGradient id="linear" y1="537.51" x2="831.48" y2="537.51" gradientUnits="userSpaceOnUse">
         <stop offset="0" stopColor="#2ab640" />
         <stop offset="1" stopColor="#54cf61" />
       </linearGradient>
