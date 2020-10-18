@@ -13,13 +13,6 @@
         <stop offset="0" stopColor="#2ab640" />
         <stop offset="1" stopColor="#54cf61" />
       </linearGradient>
-      <linearGradient id="linear-gradient-2" x1="566.27" y1="782.67" x2="807.8" y2="782.67" xlinkHref="#linear-gradient" />
-      <linearGradient id="linear-gradient-3" x1="523.1" y1="642.25" x2="585.19" y2="642.25" xlinkHref="#linear-gradient" />
-      <linearGradient id="linear-gradient-4" x1="657.84" y1="593.7" x2="832.17" y2="593.7" xlinkHref="#linear-gradient" />
-      <linearGradient id="linear-gradient-5" x1="30.33" y1="293.98" x2="271.47" y2="293.98" xlinkHref="#linear-gradient" />
-      <linearGradient id="linear-gradient-6" x1="252.58" y1="434.18" x2="314.57" y2="434.18" xlinkHref="#linear-gradient" />
-      <linearGradient id="linear-gradient-7" x1="5.99" y1="482.65" x2="180.05" y2="482.65" xlinkHref="#linear-gradient" />
-    </defs>
     <title>logo zaat</title>
     <path
       className="cls-1"
