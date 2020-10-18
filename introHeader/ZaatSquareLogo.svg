@@ -6,6 +6,13 @@
     viewBox="0 0 832.17 1075.03"
     xmlnsXlink="http://www.w3.org/1999/xlink"
   >
+     <style>
+    path {
+     fill-rule: evenodd;
+
+    }
+       
+  </style>
     <defs>
       <linearGradient id="linear-gradient" y1="537.51" x2="831.48" y2="537.51" gradientUnits="userSpaceOnUse">
         <stop offset="0" stopColor="#2ab640" />
