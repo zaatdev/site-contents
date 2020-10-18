@@ -2,19 +2,19 @@
   "introHeader": [
     {
       "title": "is for Zaat and Zaat is for:",
-      "img": "./logoOne.webp"
+      "img": "./RocketEmoji.svg"
     },
     {
       "title": "Building blazingly fast, smart apps",
-      "img": "./truefalse.webp"
+      "img": "./RocketEmoji.svg"
     },
     {
       "title": "Task automation so you focus on what matters",
-      "img": "./newgsgapplogo.webp"
+      "img": "./GearsEmoji.svg"
     },
     {
       "title": "Keeping your customers engaged and happier than they ever been",
-      "img": "./newgsgapplogo.webp"
+      "img": "./LeafEmoji.svg"
     }
   ]
 }
