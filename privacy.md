@@ -25,11 +25,11 @@ page: privacy
       - Unique IP
       - Device Type
    - Zaat Bot or Form
-     - Name
-     - Email
-     - Interest
-     - Message (optional)
-     - User's Time Zone
+      - Name
+      - Email
+      - Interest
+      - Message (optional)
+      - User's Time Zone
     - Facebook Pixel
       - IP Address
       - Information about the web browser
