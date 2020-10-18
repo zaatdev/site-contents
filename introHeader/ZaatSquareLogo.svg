@@ -9,6 +9,7 @@
      <style>
     path {
      fill-rule: evenodd;
+      fill:url(#2ab640)
 
     }
        
