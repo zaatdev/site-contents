@@ -9,8 +9,7 @@
      <style>
     path {
      fill-rule: evenodd;
-
-    }
+      fill: #54cf61    }
        
   </style>
     <defs>
