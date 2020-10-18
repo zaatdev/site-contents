@@ -27,7 +27,12 @@
     {
       "title": "Does Zaat implements GDPR?",
       "content": "Yes, We do implement the General Data Protection Regulation(GDPR) by default. We don't run any 3rd party scripts, or inject any 3rd party cookies, prior to use contest, thought GDPR is not that restrict. You can refer also to our <a href=\"/privacy\"> privacy page</a> to learn more. Also you can check our values on users privacy in the <a href=\"/about\">about Zaat</a> page."
-    }    
+    },
+     {
+       "title": "Can Zaat create AI smarter than a human?",
+       "content": "It depends on the context, AI modules that out smart humans in specific tasks, have already been developed, e.g. Google Deepmind, this kind of AI is called Artificial Narrow Intelligence (ANI), since it can only outsmart humans in one specific/narrow task. You may never beat it at a Chess game but ask it, \"is it usually warmer in winter or summer?\", and it would bum forever... \n While the one that expected to be developed to beat humans in everything is called Artificial General Intelligence (AGI) or Artificial Super intelligence (ASI). We at Zaat our area of expertise are only around Machine Learning (ML) which is a subset of Artificial Narrow Intelligence.<br><br>That being said, Yes Zaat can create an AI model than can outsmart human in a specific type of task, provided that the sufficient data needed to create the model is available.<br><br> If you are enthusiastic about AI in general we recommend you to read the two part long blog article written by Tim Urban published on the waitbutwhy.com blog, <a href=\"https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html\">Part 1</a> and <a href=\"https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html\">Part 2</a>. \n If you want to learn the tech part about AI we recommend starting by <a href=\"https://www.coursera.org/learn/machine-learning\">this</a> course taught by Andrew Ng, which focus on Machine Learning."
+ }
+
   ]
 }
 }
