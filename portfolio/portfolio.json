@@ -36,6 +36,18 @@
              "DevOps"
           ],
           "link":"https://www.gsgapp.io/"
-       }
+       },
+          {
+          "logo":"./truefalse.webp",
+          "title":"abbodSSS",
+          "description":"This project is an intitivate developed by Zaat's for responding COVID-19 crisis, Our soultion tackles the issue of false news or rumors spreading around. By creating a machine learning model that recognize similar texts and extartc entites.",
+          "techs":[
+             "TensorFlow",
+             "ReactJS",
+             "AWS",
+             "Flask"
+          ],
+          "link":""
+       },
     ]
  }
