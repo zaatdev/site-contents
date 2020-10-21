@@ -1,5 +1,4 @@
-{
-  "introHeader": [
+[
     {
       "title": "is for Zaat and Zaat is for:",
       "img": "./logo_zaat.svg"
@@ -17,4 +16,4 @@
       "img": "./LeafEmoji.svg"
     }
   ]
-}
+
