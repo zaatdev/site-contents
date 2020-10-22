@@ -39,6 +39,14 @@
       "github": "penguin",
       "linkdin": "penguin",
       "fullname": "penguin Ben Raظi"
+    },
+    {
+      "name": "Yousef",
+      "img": "./yousef.webp",
+      "title": "Full-stack Developer",
+      "github": "YousefQawasmeh",
+      "linkdin": "YousefQawasmeh",
+      "fullname": "Yousef Qawasmeh"
     }
   ]
 }
