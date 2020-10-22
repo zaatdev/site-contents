@@ -1,6 +1,4 @@
-
-  {
-    "portfolio":[
+[
        {
           "logo":"./logoOne.webp",
           "title":"Masgaz.com",
@@ -38,4 +36,4 @@
           "link":"https://www.gsgapp.io/"
        }
     ]
- }
+ 
