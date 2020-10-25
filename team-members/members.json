@@ -48,5 +48,14 @@
       "linkdin": "YousefQawasmeh",
       "fullname": "Yousef Qawasmeh"
     }
+    ,
+    {
+      "name": "Munir",
+      "img": "./munir.webp",
+      "title": "Full-stack Developer",
+      "github": "Muniralsharif",
+      "linkdin": "Munir alsharif",
+      "fullname": "Munir alsharif"
+    }
   ]
 }
