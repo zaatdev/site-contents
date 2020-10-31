@@ -11,6 +11,8 @@ page: about
 
 Zaat is a software solutions company, specialized in web and mobile app development, tasks automation powered by **Artificial Intelligence (AI)**, and consulting.
 
+Zaat is registered as a limited company in Estonia, regiteration number 16084536 as "zaatdev OÜ". 
+
 At Zaat, our main goal is to keep your business growing. We do that by keeping our technical skills up to date and staying up to speed with new technologies. All this can’t be achieved without having a great team culture which is the foundation of Zaat’s high performance team.
 
 We, at Zaat, found a way to live our values, through establishing a solid foundation for bringing values into action. We do all this and more to create a great work culture that gets great results.
