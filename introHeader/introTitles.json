@@ -1,19 +1,23 @@
 [
     {
       "title": "is for Zaat and Zaat is for:",
-      "img": "./logo_zaat.svg"
+      "img": "./logo_zaat.svg",
+        "alt":"zaatdev"
     },
     {
       "title": "Building blazingly fast, smart apps",
-      "img": "./RocketEmoji.svg"
+      "img": "./RocketEmoji.svg",
+        "alt":"rocket",
     },
     {
       "title": "Task automation so you focus on what matters",
-      "img": "./GearsEmoji.svg"
+      "img": "./GearsEmoji.svg",
+        "alt":"gear",
     },
     {
       "title": "Keeping your customers engaged and happier than they ever been",
-      "img": "./LeafEmoji.svg"
+      "img": "./LeafEmoji.svg",
+        "alt":"tree",
     }
 ]
 
