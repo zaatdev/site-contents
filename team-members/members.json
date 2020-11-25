@@ -56,6 +56,14 @@
       "github": "AbeerAlbada",
       "linkdin": "abeeralbada",
       "fullname": "Abeer Albada"
+    },
+    {
+      "name": "Mohammed",
+      "img": "./mohammed.webp",
+      "title": "Back-end Developer",
+      "github": "mmortaga",
+      "linkdin": "mohammed-mortaga-300243149",
+      "fullname": "Mohammed Mortaga"
     }
   ]
 }
