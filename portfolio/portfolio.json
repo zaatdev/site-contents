@@ -12,16 +12,17 @@
           "link":"https://masgaz.com"
        },
        {
-          "logo":"./truefalse.jpg",
-          "title":"TrueOrFalse",
-          "description":"This project is an intitivate developed by Zaat's for responding COVID-19 crisis, Our soultion tackles the issue of false news or rumors spreading around. By creating a machine learning model that recognize similar texts and extartc entites.",
+          "logo":"./covidfacts.png",
+          "title":"covidfacts.app",
+          "description":"We created a web app for users, to browse content, ask questions, they could login by both their email or their facebook.  For admin we created a dashboard to add content, like article, polls also to respond to inquiries ",
           "techs":[
-             "TensorFlow",
-             "ReactJS",
+             "Nginx",
              "AWS",
-             "Flask"
+             "NextJS",
+             "NodeJS",
+             "PSQL"
           ],
-          "link":""
+          "link":"https://covidfacts.app/"
        },
        {
           "logo":"./newgsgapplogo.jpg",
@@ -34,6 +35,19 @@
              "DevOps"
           ],
           "link":"https://www.gsgapp.io/"
-       }
+       },      
+        {
+         "logo":"./truefalse.jpg",
+         "title":"TrueOrFalse",
+         "description":"This project is an intitivate developed by Zaat's for responding COVID-19 crisis, Our soultion tackles the issue of false news or rumors spreading around. By creating a machine learning model that recognize similar texts and extartc entites.",
+         "techs":[
+            "TensorFlow",
+            "ReactJS",
+            "AWS",
+            "Flask"
+         ],
+         "link":""
+      }
+
     ]
  
