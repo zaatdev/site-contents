@@ -12,16 +12,17 @@
           "link":"https://masgaz.com"
        },
        {
-          "logo":"./truefalse.jpg",
-          "title":"TrueOrFalse",
-          "description":"This project is an intitivate developed by Zaat's for responding COVID-19 crisis, Our soultion tackles the issue of false news or rumors spreading around. By creating a machine learning model that recognize similar texts and extartc entites.",
+          "logo":"./covidfcats.png",
+          "title":"covidfacts.app",
+          "description":"We created a platform for hosting apps that are developed by Code Academy students. Code Academy is a program of Gaza Sky Geeks where students learn by developing MVP product to simulate real working environments.",
           "techs":[
-             "TensorFlow",
-             "ReactJS",
+             "Nginx",
              "AWS",
-             "Flask"
+             "NextJS",
+             "NodeJS",
+             "PSQL"
           ],
-          "link":""
+          "link":"https://covidfacts.app/"
        },
        {
           "logo":"./newgsgapplogo.jpg",
@@ -34,6 +35,19 @@
              "DevOps"
           ],
           "link":"https://www.gsgapp.io/"
-       }
+       },      
+        {
+         "logo":"./truefalse.jpg",
+         "title":"TrueOrFalse",
+         "description":"This project is an intitivate developed by Zaat's for responding COVID-19 crisis, Our soultion tackles the issue of false news or rumors spreading around. By creating a machine learning model that recognize similar texts and extartc entites.",
+         "techs":[
+            "TensorFlow",
+            "ReactJS",
+            "AWS",
+            "Flask"
+         ],
+         "link":""
+      }
+
     ]
  
