@@ -12,9 +12,9 @@
           "link":"https://masgaz.com"
        },
        {
-          "logo":"./covidfcats.png",
+          "logo":"./covidfacts.png",
           "title":"covidfacts.app",
-          "description":"We created a platform for hosting apps that are developed by Code Academy students. Code Academy is a program of Gaza Sky Geeks where students learn by developing MVP product to simulate real working environments.",
+          "description":"We created a web app for users, to browse content, ask questions, they could login by both their email or their facebook.  For admin we created a dashboard to add content, like article, polls also to respond to inquiries ",
           "techs":[
              "Nginx",
              "AWS",
