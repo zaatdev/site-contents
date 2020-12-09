@@ -2,7 +2,7 @@
   "members" : [
     {
       "name": "Ghassan",
-      "img": "./ghassan.webp",
+      "img": "./ghassan.jpg",
       "title": "Team Lead",
       "github": "ghassanmas",
       "linkdin": "ghassanmas",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Yosef",
-      "img": "./yosef.webp",
+      "img": "./yosef.jpg",
       "title": "Full-stack Developer",
       "github": "yosefanajjar",
       "linkdin": "yosefanajjar",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Aman",
-      "img": "./aman.webp",
+      "img": "./aman.jpg",
       "title": "Desinger & Front-end Developer",
       "github": "amanshawar",
       "linkdin": "aman-shawar-27a15a168",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Ahd",
-      "img": "./ahd.webp",
+      "img": "./ahd.jpg",
       "title": "Software Engineer",
       "github": "Zeus3hd",
       "linkdin": "ahdradwan",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Yousef",
-      "img": "./yousef.webp",
+      "img": "./yousef.jpg",
       "title": "Full-stack Developer",
       "github": "YousefQawasmeh",
       "linkdin": "YousefQawasmeh",
@@ -43,7 +43,7 @@
     ,
     {
       "name": "Munir",
-      "img": "./munir.webp",
+      "img": "./munir.jpg",
       "title": "Full-stack Developer",
       "github": "Muniralsharif",
       "linkdin": "munir-alsharif-789098102",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Abeer",
-      "img": "./abeer.webp",
+      "img": "./abeer.jpg",
       "title": "Content Creator",
       "github": "AbeerAlbada",
       "linkdin": "abeeralbada",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Mohammed",
-      "img": "./mohammed.webp",
+      "img": "./mohammed.jpg",
       "title": "Back-end Developer",
       "github": "mmortaga",
       "linkdin": "mohammed-mortaga-300243149",

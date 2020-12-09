@@ -1,6 +1,6 @@
 [
        {
-          "logo":"./logoOne.webp",
+          "logo":"./logoOne.jpg",
           "title":"Masgaz.com",
           "description":" A multi language fast website, we created a CRM solution for the client, so they can easily add new content/items using (mobile), then automatically a new page that is fast, SEO optimized and multilingual will be generated!",
           "techs":[
@@ -12,7 +12,7 @@
           "link":"https://masgaz.com"
        },
        {
-          "logo":"./truefalse.webp",
+          "logo":"./truefalse.jpg",
           "title":"TrueOrFalse",
           "description":"This project is an intitivate developed by Zaat's for responding COVID-19 crisis, Our soultion tackles the issue of false news or rumors spreading around. By creating a machine learning model that recognize similar texts and extartc entites.",
           "techs":[
@@ -24,7 +24,7 @@
           "link":""
        },
        {
-          "logo":"./newgsgapplogo.webp",
+          "logo":"./newgsgapplogo.jpg",
           "title":"gsgapp.io",
           "description":"We created a platform for hosting apps that are developed by Code Academy students. Code Academy is a program of Gaza Sky Geeks where students learn by developing MVP product to simulate real working environments.",
           "techs":[
