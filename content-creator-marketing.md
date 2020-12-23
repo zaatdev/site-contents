@@ -3,6 +3,8 @@ title: Content Creator and Digital Marketing Enthusiast is needed
 description: Zaat is looking for a content cerator and digital marketing warrior, click to learn more...
 image: ./job-cotnent-marketing.png
 type: job
+page: job
+
 ---
 ## This job is closed, no longer receiving application.
 ## :mega: ~~Zaat is looking for a content creator and digital marketing warrior~~ :mag:. 
