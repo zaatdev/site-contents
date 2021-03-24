@@ -5,11 +5,11 @@
   "rows": [
     {
       "title": "Where are you located?",
-      "content": "Zaat is operated on a 100% remote basis since it was established. The current team members are located in different cities, among them are Jerusalm, Gaza, Istanbul and Gaza ."
+      "content": "Zaat is operated on a 100% remote basis since it was established. The current team members are located in different cities, among them are Jerusalem, Gaza, Istanbul, and Gaza ."
     },
     {
-      "title": "How much does your services cost?",
-      "content": "In order to estiame the cost of devleoping an app or a solution. We would need to have a meeting to talk in detials about each aspect of your project, so we can estimate the project budget or to send you a qouta"
+      "title": "How much do your services cost?",
+      "content": "To estimate the cost of developing an app or a solution. We would need to have a meeting to talk in details about each aspect of your project, so we can estimate the project budget or  send you a quote"
     },
     {
       "title": "Does my project budget fits Zaat's expectation?",
@@ -17,20 +17,19 @@
     },
     {
       "title": "Can Zaat translate my website or App content?",
-      "content":
-        "Zaat is not a translation agency, we can certainly provide the functionality your website or app need in order to support multi language, this concept is called internalization (i18n) and is not limited to language. It can include TimeZone, for example the date format in the US is not like the rest the world, so if you want your app to be localized for American market, the Date format shall match the US standard."
+      "content":"Zaat is not a translation agency, we can certainly provide the functionality your website or app needs to support multi-language, this concept is called internalization (i18n) and is not limited to language. It can include TimeZone, for example, the date format in the US is not like the rest of the world, so if you want your app to be localized for the American market, the Date format shall match the US standard."
     },
     {
       "title": "I have a startup idea, can Zaat build it?",
-      "content": "We can and we would be definitely happy to build it for you, if it falls under our area of expertise and you already have the sufficient budget for it. It's Important to know that Zaat is not an accelerator nor is it a funding partner."
+      "content": "We can and we would be happy to build it for you if it falls under our area of expertise and you already have the sufficient budget for it. It's Important to know that Zaat is not an accelerator nor is it a funding partner."
     },
     {
       "title": "Does Zaat implements GDPR?",
-      "content": "Yes, We do implement the General Data Protection Regulation(GDPR) by default. We don't run any 3rd party scripts, or inject any 3rd party cookies, prior to use contest, thought GDPR is not that restrict. You can refer also to our <a href=\"/privacy\"> privacy page</a> to learn more. Also you can check our values on users privacy in the <a href=\"/about\">about Zaat</a> page."
+      "content": "Yes, We do implement the General Data Protection Regulation(GDPR) by default. We don't run any 3rd party scripts, or inject any 3rd party cookies, before use contests, though GDPR is not that restricting. You can refer also to our <a href=\"/privacy\"> privacy page</a> to learn more. Also you can check our values on users privacy in the <a href=\"/about\">about Zaat</a> page."
     },
      {
        "title": "Can Zaat create AI smarter than a human?",
-       "content": "It depends on the context, AI modules that out smart humans in specific tasks, have already been developed, e.g. Google Deepmind, this kind of AI is called Artificial Narrow Intelligence (ANI), since it can only outsmart humans in one specific/narrow task. You may never beat it at a Chess game but ask it, \"is it usually warmer in winter or summer?\", and it would bum forever... \n While the one that expected to be developed to beat humans in everything is called Artificial General Intelligence (AGI) or Artificial Super intelligence (ASI). We at Zaat our area of expertise are only around Machine Learning (ML) which is a subset of Artificial Narrow Intelligence.<br><br>That being said, Yes Zaat can create an AI model than can outsmart human in a specific type of task, provided that the sufficient data needed to create the model is available.<br><br> If you are enthusiastic about AI in general we recommend you to read the two part long blog article written by Tim Urban published on the waitbutwhy.com blog, <a href=\"https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html\">Part 1</a> and <a href=\"https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html\">Part 2</a>. \n If you want to learn the tech part about AI we recommend starting by <a href=\"https://www.coursera.org/learn/machine-learning\">this</a> course taught by Andrew Ng, which focus on Machine Learning."
+       "content": "It depends on the context, AI modules that outsmart humans in specific tasks, have already been developed, e.g. Google Deepmind, this kind of AI is called Artificial Narrow Intelligence (ANI) since it can only outsmart humans in one specific/narrow task. You may never beat it at a Chess game but ask it, \" is it usually warmer in winter or summer?\", and it would bum forever... \n While the one that expected to be developed to beat humans in everything is called Artificial General Intelligence (AGI) or Artificial Superintelligence (ASI). We at Zaat our area of expertise are only around Machine Learning (ML) which is a subset of Artificial Narrow Intelligence.<br><br>That being said, Yes Zaat can create an AI model that can outsmart human in a specific type of task, provided that the sufficient data needed to create the model is available.<br><br> If you are enthusiastic about AI in general we recommend you to read the two-part long blog article written by Tim Urban published on the waitbutwhy.com blog, <a href=\"https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html\">Part 1</a> and <a href=\"https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html\">Part 2</a>. \n If you want to learn the tech part about AI we recommend starting by <a href=\"https://www.coursera.org/learn/machine-learning\">this</a> course taught by Andrew Ng, which focus on Machine Learning."
  }
 
   ]
