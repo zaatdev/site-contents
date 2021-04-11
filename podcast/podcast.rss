@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <generator>https://simplecast.com</generator>
+    <title>Zaat.dev Podcast</title>
+    <description> Zaat podcast, is a series of podcast episodes, in each episode, we discuss a specific topic that is related to web development, the internet, or technology.  </description>
+    <copyright>Zaat.dev</copyright>
+    <language>en</language>
+    <pubDate>Sunday, 11 Apr 2021 00:23:18 +0000</pubDate>
+    <lastBuildDate>Sunday, 11 Apr 2021 00:23:29 +0000</lastBuildDate>
+    <image>
+      <link>https://zaat.dev/podcast</link>
+      <title>Zaat.dev Podcast</title>
+      <url>https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_1000_1000.png</url>
+    </image>
+    <link>https://zaat.dev/podcast</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Zaat podcast, is a series of podcast episodes, in each episode, we discuss a specific topic that is related to web development, the internet, or technology. </itunes:summary>
+    <itunes:author>Ghassan Maslamani</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_1000_1000.png"/>
+    <itunes:new-feed-url>https://zaat.dev/podcast/podcast.rss</itunes:new-feed-url>
+    <itunes:keywords>web development, software, technology, data, machine learning, internet</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Zaat.dev</itunes:name>
+      <itunes:email>ghassan@zaat.dev</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Education"/>
+  </channel>
+</rss>
