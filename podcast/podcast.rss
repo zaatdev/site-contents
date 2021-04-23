@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Zaat.dev Podcast</title>
+    <description> Zaat podcast, is a series of podcast episodes, hosted by Ghassan Maslamani, the founder of Zaat.dev
+     In each episode, we discuss a specific topic that is related to web development, the internet, or technology. </description>
+    <copyright>Zaat.dev</copyright>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 GMT</lastBuildDate>
+    <image>
+      <link>https://zaat.dev/podcast</link>
+      <title>Zaat.dev Podcast</title>
+      <url>https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_art_1000_1000.png</url>
+    </image>
+    <link>https://zaat.dev/podcast</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Zaat podcast, is a series of podcast episodes, in each episode, we discuss a specific topic that is related to web development, the internet, or technology. </itunes:summary>
+    <itunes:author>Ghassan Maslamani</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <googleplay:owner>ghassan@zaat.dev</googleplay:owner>
+    <googleplay:author> Ghassan Maslamani</googleplay:author>
+    <googleplay:image href="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_art_1000_1000.png"/>
+    <itunes:image href="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_art_1000_1000.png"/>
+    <itunes:new-feed-url>https://zaat.dev/podcast/podcast.rss</itunes:new-feed-url>
+    <itunes:keywords>web development, software, technology, data, machine learning, internet</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Zaat.dev</itunes:name>
+      <itunes:email>ghassan@zaat.dev</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:category text="Education">
+        <itunes:category text="Courses"/>
+    <itunes:category/>
+
+
+    <item>
+          <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Data Compliance </itunes:title>
+     <title>EP01 Data Compliance </title>
+  <link>
+  https://zaat.dev/podcast/episode01-data-compliance
+  </link>
+     <description>
+          <![CDATA[<h2 id="data-compliance">Data Compliance</h2>
+<p>In this first episode, I discuss with Tatiana, the regulation of Data (mostly in the US), from a technical person (developer or project manager) point of view. </p>
+<p>We talk about what you need to know or consider, in case you are dealing with private users&#39; data. </p>
+<p>We also discussed,  the role of the federal trade commission or FTC in data regulation, which enforces its regulation at the federal level,  also for the state of Illonies, and how the laws in Illonies are strict for data regulation due to their strict consumers&#39; protection policy.</p>
+<p>Tatiana also briefly explained the distinction between GDPR (General Data Protection Regulation of EU) and the CCPA (The California Consumer Privacy Act). we also discussed that in the future, the US might establish an agency dedicated to data regulation, similar to how FDA is regulating food and drugs or FCC for telecommunication. </p>
+<p>Lastly, we also talk about the case of Linkedin vs hiQ case, where Linkedin has sued hiQ at the United States Ninth Circuit court for scrapping their public data. The 9th Cir court ruled for hiQ on 9 Sep 2019.
+However, following the district court decision, Linkedin filed the case to the supreme court requesting a review. 
+Now, everyone is waiting for the supreme court decision, since it would have a huge implication on the policy of scrapping data. </p>
+<h2 id="about-tatiana-rice">About Tatiana Rice</h2>
+<p>Tatiana Rice is a licensed attorney in Washington, DC in the United States. She is a certified privacy professional and assists companies in complying with various data privacy laws, as well as defending companies in lawsuits and government investigations regarding data privacy and cybersecurity.</p>
+<h2 id="references-">References:</h2>
+<ul>
+<li><a href="https://www.linkedin.com/in/tatiana-rice-3284b871/">Tatiana Rice Linkedin</a></li>
+<li><a href="https://medium.com/@chris_70736/hiq-v-linkedin-and-the-legality-of-web-scraping-e80b9ab06f1d">Linkedin vs hiQ bakground</a> </li>
+<li><a href="https://www.natlawreview.com/article/hiq-files-opposition-brief-supreme-court-linkedin-cfaa-data-scraping-dispute">Linkedin vs hiQ latest update</a></li>
+<li><a href="https://data.gov">US government open data site data.gov</a></li>
+</ul>
+]]>  
+ </description>
+<enclosure 
+        length="34872600" 
+        type="audio/mpeg" 
+        url="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/mix_04-13-2021_181654.mp3"
+      />
+     <guid>https://zaat.dev/podcast/episode01-data-compliance</guid>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+      <itunes:duration>2491</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
