@@ -14,6 +14,10 @@ itunes-episode: 1
 slug: episode01-data-compliance
 keywords: Data Compliance, Data Privacy, Data Regulation
 type: podcast
+youtube: https://www.youtube.com/watch?v=yAaYIu0vRV4
+spotify: https://open.spotify.com/show/2QKB8ln4xmPuWl8UDXYRrZ
+apple: https://podcasts.apple.com/us/podcast/zaat-dev-podcast/id1564562518
+google: https://podcasts.google.com/feed/aHR0cHM6Ly96YWF0LmRldi9wb2RjYXN0L3BvZGNhc3QucnNz
 date: 2021-04-24T00:00:03.284Z
 ---
 
@@ -38,7 +42,7 @@ Tatiana Rice is a licensed attorney in Washington, DC in the United States. She 
 
 ## References:
 - [Tatiana Rice Linkedin](https://www.linkedin.com/in/tatiana-rice-3284b871/)
-- [Linkedin vs hiQ bakground](https://medium.com/@chris_70736/hiq-v-linkedin-and-the-legality-of-web-scraping-e80b9ab06f1d) 
+- [Linkedin vs hiQ background](https://medium.com/@chris_70736/hiq-v-linkedin-and-the-legality-of-web-scraping-e80b9ab06f1d) 
 - [Linkedin vs hiQ latest update](https://www.natlawreview.com/article/hiq-files-opposition-brief-supreme-court-linkedin-cfaa-data-scraping-dispute)
 - [US government open data site data.gov](https://data.gov)
 
