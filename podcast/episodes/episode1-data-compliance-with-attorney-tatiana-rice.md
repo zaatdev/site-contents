@@ -1,9 +1,10 @@
 ---
-title: Eposide 1 Data Compliance with Attorney Tatiana Rice 
+title: Eposide 1 Data Compliance 
 description: In this first episode, I discuss with Tatiana, the regulation of Data (mostly in the US), from a technical person e.g. (developer or a project manager) point of view.
 image: ./episode1.png
 duration: 2491
 enclosure-length: 34872600
+duration-minutes: 41
 enclosure-type: audio/mpeg
 enclosure-url: https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/mix_04-13-2021_181654.mp3
 guid: https://zaat.dev/podcast/episode01-data-compliance
@@ -16,7 +17,7 @@ type: podcast
 date: 2021-04-24T00:00:03.284Z
 ---
 
-# Data Compliance
+## Data Compliance
 
 In this first episode, I discuss with Tatiana, the regulation of Data (mostly in the US), from a technical person e.g. (developer or a project manager) point of view. 
 
