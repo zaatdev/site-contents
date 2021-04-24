@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Zaat.dev Podcast</title>
     <description> Zaat podcast, is a series of podcast episodes, hosted by Ghassan Maslamani, the founder of Zaat.dev
-     In each episode, we discuss a specific topic that is related to web development, the internet, or technology. </description>
+     In each episode, we discuss a specific topic that is related to web development, the internet, or technology. 
+     </description>
     <copyright>Zaat.dev</copyright>
     <language>en</language>
     <lastBuildDate>Sat, 24 Apr 2021 00:00:00 GMT</lastBuildDate>
@@ -19,32 +20,29 @@
     <itunes:explicit>no</itunes:explicit>
     <googleplay:owner>ghassan@zaat.dev</googleplay:owner>
     <googleplay:author> Ghassan Maslamani</googleplay:author>
-    <googleplay:image href="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_art_1000_1000.png"/>
-    <itunes:image href="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_art_1000_1000.png"/>
+    <googleplay:image href="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_art_1000_1000.png" />
+    <itunes:image href="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_art_1000_1000.png" />
     <itunes:new-feed-url>https://zaat.dev/podcast/podcast.rss</itunes:new-feed-url>
     <itunes:keywords>web development, software, technology, data, machine learning, internet</itunes:keywords>
     <itunes:owner>
       <itunes:name>Zaat.dev</itunes:name>
       <itunes:email>ghassan@zaat.dev</itunes:email>
     </itunes:owner>
-    <itunes:category text="Technology"/>
+    <itunes:category text="Technology" />
     <itunes:category text="Business">
-      <itunes:category text="Entrepreneurship"/>
+      <itunes:category text="Entrepreneurship" />
     </itunes:category>
     <itunes:category text="Education">
-        <itunes:category text="Courses"/>
-    <itunes:category/>
-
-
+      <itunes:category text="Courses" />
+    </itunes:category>
     <item>
-          <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>Data Compliance </itunes:title>
-     <title>EP01 Data Compliance </title>
-  <link>
-  https://zaat.dev/podcast/episode01-data-compliance
-  </link>
-     <description>
-          <![CDATA[<h2 id="data-compliance">Data Compliance</h2>
+      <title>EP01 Data Compliance </title>
+      <link>
+  https://zaat.dev/podcast/episode01-data-compliance</link>
+      <description>
+        <![CDATA[<h2 id="data-compliance">Data Compliance</h2>
 <p>In this first episode, I discuss with Tatiana, the regulation of Data (mostly in the US), from a technical person (developer or project manager) point of view. </p>
 <p>We talk about what you need to know or consider, in case you are dealing with private users&#39; data. </p>
 <p>We also discussed,  the role of the federal trade commission or FTC in data regulation, which enforces its regulation at the federal level,  also for the state of Illonies, and how the laws in Illonies are strict for data regulation due to their strict consumers&#39; protection policy.</p>
@@ -61,18 +59,14 @@ Now, everyone is waiting for the supreme court decision, since it would have a h
 <li><a href="https://www.natlawreview.com/article/hiq-files-opposition-brief-supreme-court-linkedin-cfaa-data-scraping-dispute">Linkedin vs hiQ latest update</a></li>
 <li><a href="https://data.gov">US government open data site data.gov</a></li>
 </ul>
-]]>  
- </description>
-<enclosure 
-        length="34872600" 
-        type="audio/mpeg" 
-        url="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/mix_04-13-2021_181654.mp3"
-      />
-     <guid>https://zaat.dev/podcast/episode01-data-compliance</guid>
+]]>
+      </description>
+      <enclosure length="34872600" type="audio/mpeg" url="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/mix_04-13-2021_181654.mp3" />
+      <guid>https://zaat.dev/podcast/episode01-data-compliance</guid>
       <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
       <itunes:duration>2491</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-    <itunes:episode>1</itunes:episode>
+      <itunes:episode>1</itunes:episode>
     </item>
   </channel>
 </rss>
