@@ -11,7 +11,7 @@
     <image>
       <link>https://zaat.dev/podcast</link>
       <title>Zaat.dev Podcast</title>
-      <url>https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_art_1000_1000.png</url>
+      <url>https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_3000_3000-min.png</url>
     </image>
     <link>https://zaat.dev/podcast</link>
     <itunes:type>episodic</itunes:type>
@@ -20,8 +20,8 @@
     <itunes:explicit>false</itunes:explicit>
     <googleplay:owner>ghassan@zaat.dev</googleplay:owner>
     <googleplay:author> Ghassan Maslamani</googleplay:author>
-    <googleplay:image href="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_art_1000_1000.png" />
-    <itunes:image href="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_art_1000_1000.png" />
+    <googleplay:image href="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_3000_3000-min.png" />
+    <itunes:image href="https://alprofile-assest.s3-eu-west-1.amazonaws.com/podcast/podcast_3000_3000-min.png" />
     <itunes:new-feed-url>https://zaat.dev/podcast/podcast.rss</itunes:new-feed-url>
     <itunes:keywords>web development, software, technology, data, machine learning, internet</itunes:keywords>
     <itunes:owner>
