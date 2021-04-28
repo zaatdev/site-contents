@@ -1,5 +1,5 @@
 ---
-title: Eposide 1 Data Compliance 
+title: Episode 1 Data Compliance 
 description: In this first episode, I discuss with Tatiana, the regulation of Data (mostly in the US), from a technical person e.g. (developer or a project manager) point of view.
 image: ./episode1.png
 duration: 2491
