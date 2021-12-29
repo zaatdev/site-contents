@@ -1,53 +1,52 @@
 [
    {
-      "logo":"./logoOne.jpg",
-      "title":"Masgaz.com",
-      "description":" A multi-language fast website, we created a CRM solution for the client, so they can easily add new content/items using (mobile), then automatically a new page that is fast, SEO optimized, and multilingual will be generated!",
-      "techs":[
+      "logo": "./open_edx.png",
+      "title": "Open Edx Platform",
+      "description": "A fully functional demo site is running the open edx platform. A platform for running for LMS (Learning management system) which powers edx.org. The platform offers a complete system for running online courses with a wide range of features, to name a few: certifications, e-commerce, graded exams...etc.",
+      "techs": [
+         "AWS",
+         "Django",
+         "Elastic Search",
+         "React",
+         "DevOps"
+      ],
+      "link": "http://edx.gsgapp.io"
+   },
+   {
+      "logo": "./logoOne.jpg",
+      "title": "Masgaz.com",
+      "description": " A multi-language fast website, we created a CRM solution for the client, so they can easily add new content/items using (mobile), then automatically a new page that is fast, SEO optimized, and multilingual will be generated!",
+      "techs": [
          "nginx",
          "ReactJS",
          "GatsyJS",
          "AWS"
       ],
-      "link":"https://masgaz.com"
+      "link": "https://masgaz.com"
    },
    {
-      "logo":"./covidfacts.png",
-      "title":"covidfacts.app",
-      "description":"We created a web app for users, to browse content, ask questions, they could log in by both their email or their Facebook.  For admin, we created a dashboard to add content, like the article, polls also to respond to inquiries ",
-      "techs":[
+      "logo": "./covidfacts.png",
+      "title": "covidfacts.app",
+      "description": "We created a web app for users, to browse content, ask questions, they could log in by both their email or their Facebook.  For admin, we created a dashboard to add content, like the article, polls also to respond to inquiries ",
+      "techs": [
          "Nginx",
          "AWS",
          "NextJS",
          "NodeJS",
          "PSQL"
       ],
-      "link":"https://covidfacts.app/"
+      "link": "https://covidfacts.ps/"
    },
    {
-      "logo":"./newgsgapplogo.jpg",
-      "title":"gsgapp.io",
-      "description":"We created a platform for hosting apps that are developed by Code Academy students. Code Academy is a program of Gaza Sky Geeks where students learn by developing MVP product to simulate real working environments.",
-      "techs":[
+      "logo": "./newgsgapplogo.jpg",
+      "title": "gsgapp.io",
+      "description": "We created a platform for hosting apps that are developed by Code Academy students. Code Academy is a program of Gaza Sky Geeks where students learn by developing MVP product to simulate real working environments.",
+      "techs": [
          "Nginx",
          "AWS",
          "NodeJS",
          "DevOps"
       ],
-      "link":"https://www.gsgapp.io/"
-   },      
-    {
-     "logo":"./truefalse.jpg",
-     "title":"TrueOrFalse",
-     "description":"This project is an intuitive developed by Zaat's for responding to COVID-19 crisis, Our solution tackles the issue of false news or rumors spreading around. By creating a machine learning model that recognizes similar texts and extracts entities.",
-     "techs":[
-        "TensorFlow",
-        "ReactJS",
-        "AWS",
-        "Flask"
-     ],
-     "link":""
-  }
-
+      "link": "https://www.gsgapp.io/"
+   }
 ]
-
