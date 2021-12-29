@@ -1,7 +1,7 @@
 [
    {
       "logo": "./open_edx.png",
-      "title": "Open Edx Platform",
+      "title": "Open Edx® Platform",
       "description": "A fully functional demo site is running the open edx platform. A platform for running for LMS (Learning management system) which powers edx.org. The platform offers a complete system for running online courses with a wide range of features, to name a few: certifications, e-commerce, graded exams...etc.",
       "techs": [
          "AWS",
