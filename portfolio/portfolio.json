@@ -10,7 +10,20 @@
          "React",
          "DevOps"
       ],
-      "link": "http://edx.gsgapp.io"
+      "link": "https://edx.gsgapp.io"
+   },
+   {
+      "logo": "./discourse.jpeg",
+      "title": "Discourse Forum",
+      "description": "A fully functional demo site that is running  Discourse forum. An open source forum/discourse platform built by discourse.org",
+      "techs": [
+         "AWS",
+         "Ruby",
+         "Elastic Search",
+         "EmberJS",
+         "DevOps"
+      ],
+      "link": "https://discuss.gsgapp.io"
    },
    {
       "logo": "./logoOne.jpg",
