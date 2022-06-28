@@ -48,7 +48,7 @@
          "NodeJS",
          "PSQL"
       ],
-      "link": "https://covidfacts.ps/"
+      "link": "https://covidfacts.ps"
    },
    {
       "logo": "./newgsgapplogo.jpg",
@@ -60,6 +60,6 @@
          "NodeJS",
          "DevOps"
       ],
-      "link": "https://www.gsgapp.io/"
+      "link": "https://www.gsgapp.io"
    }
 ]
